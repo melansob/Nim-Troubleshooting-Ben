@@ -6,7 +6,7 @@ const turnsParam=3;
 main(); 
 
 //start game
-main(){
+function main(){
   alert("welcome to NIM, you're first");
   let count=0;
   while(count<21){
